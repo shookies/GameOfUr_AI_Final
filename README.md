@@ -73,3 +73,9 @@ The flags that are most relevant are:
 **_-lpb, -spb, -lb_** control parameters for from where the black player  will load his weights, where he will save his weights, and whether he will learn or not at all (by default the black player will not learn and will load the default DQN weights). Equivalent flags have been made for the white player.
 
 Note that a human player cannot be selected in the game mode without the main menu.
+
+## Created by
+
+Tom Marom
+Daniel Deygin
+Edan Patt
