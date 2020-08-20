@@ -77,5 +77,7 @@ Note that a human player cannot be selected in the game mode without the main me
 ## Created by
 
 Tom Marom
+
 Daniel Deygin
+
 Edan Patt
